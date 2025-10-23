@@ -1,0 +1,2 @@
+# rescuse-ready-underwater-surveillance-drone-with-real-time-camera-feed
+The Rescue-Ready Underwater Surveillance Drone is an advanced robotic device designed for underwater exploration, search, and rescue operations. Equipped with real-time video transmission, this drone provides continuous visual monitoring of underwater environments, enabling rescuers and researchers to make quick and informed decisions. 
